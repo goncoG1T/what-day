@@ -8,4 +8,4 @@ Ao executar, o código exibe a data do dia de execução, as horas, o dia poster
 
 ## Como rodar?
 
-Clique [aqui](https://github.com/goncoG1T/what-day/blob/main/out/artifacts/whatDayIsIt_jar/whatDayIsIt.jar?raw=true), ao finalizar o download e acesse a página em que foi salvo pelo cmd/bash e execute o comando "java -jar whatDayIsIt.jar".
+Clique [aqui](https://github.com/goncoG1T/what-day/blob/main/out/artifacts/whatDayIsIt_jar/whatDayIsIt.jar?raw=true), ao finalizar o download e acesse a pasta em que foi salvo pelo cmd/bash e execute o comando "java -jar whatDayIsIt.jar".
